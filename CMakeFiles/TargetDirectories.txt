@@ -1,0 +1,8 @@
+/media/zamazan4ik/For_Linux/cpp-russia-hello/CMakeFiles/test.dir
+/media/zamazan4ik/For_Linux/cpp-russia-hello/CMakeFiles/edit_cache.dir
+/media/zamazan4ik/For_Linux/cpp-russia-hello/CMakeFiles/rebuild_cache.dir
+/media/zamazan4ik/For_Linux/cpp-russia-hello/CMakeFiles/hello.dir
+/media/zamazan4ik/For_Linux/cpp-russia-hello/test/CMakeFiles/test.dir
+/media/zamazan4ik/For_Linux/cpp-russia-hello/test/CMakeFiles/edit_cache.dir
+/media/zamazan4ik/For_Linux/cpp-russia-hello/test/CMakeFiles/rebuild_cache.dir
+/media/zamazan4ik/For_Linux/cpp-russia-hello/test/CMakeFiles/test_hello.dir

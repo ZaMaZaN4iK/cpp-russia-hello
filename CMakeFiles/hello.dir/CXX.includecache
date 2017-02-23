@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/media/zamazan4ik/For_Linux/cpp-russia-hello/src/hello.cpp
+hello/hello.h
+-
+
+include/hello/hello.h
+ostream
+-
+
